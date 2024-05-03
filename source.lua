@@ -516,7 +516,7 @@ do
 						end
 					elseif i == 'Visible' then
 						drawing.Visible = v
-					elseif i == 'Font' and v == 2 and executor == 'ScriptWare' then
+					elseif i == 'Font' and v == 2 then
 						v = 1
 					end
 
